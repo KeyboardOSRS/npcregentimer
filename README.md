@@ -1,7 +1,7 @@
 # NPC Regen Timer RuneLite plugin
 
 ## Install
-Add to `runelite\runelite-client\src\main\java\net\runelite\client\plugins`
+Add the `npcregentimer` folder to `runelite\runelite-client\src\main\java\net\runelite\client\plugins`
 
 You must manually compile the RuneLite client
 
