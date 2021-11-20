@@ -19,4 +19,4 @@ You should set "Ticks per death animation" to 3 in the following example:
 ## Known bugs
 The timer will pause for 1 tick and go out of sync if the npc goes out of view (such as you teleporting away)
 
-This plugin doesn't take into account death speed-up or slow-down, for example the npc being d-clawed/d-bowed or moving on the tick it dies. The timer will go out of sync if this happens
+This plugin doesn't take into account death speed-up, for example the npc being d-clawed/d-bowed. The timer will go out of sync if this happens
